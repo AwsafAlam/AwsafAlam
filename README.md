@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Awsaf, Co-founder & CTO at Sohopathi. Working mostly with Typescript, Nodejs, MongoDb.
+Occasionally I write blog posts on various topics I find interesting. Visit 👉 https://awsaf.dev/
+
+- 🔭 I’m currently working on my Edtech startup Sohopathi.io
+- 🌱 I’m currently learning AWS Lambda
+- 👯 Looking to collaborate on Edtech and Computer Vision projects
+- 📫 How to reach me: awsaf@onlinesohopathi.com
+
+
 <!--
 **AwsafAlam/AwsafAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
