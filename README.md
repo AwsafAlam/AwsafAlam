@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Awsaf, Co-founder & CTO at Sohopathi. Working mostly with Typescript, Nodejs, MongoDb.
+I'm Awsaf, currently working at [Sohopathi](https://sohopathi.io)
+Working mostly in the MERN stack, Typescript, Nodejs, MongoDb
 Occasionally I write blog posts on various topics I find interesting. Visit 👉 https://awsaf.dev/
 
 - 🔭 I’m currently working on my Edtech startup Sohopathi.io
