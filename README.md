@@ -7,7 +7,7 @@ Occasionally I write blog posts on various topics I find interesting. Visit 👉
 <!-- - 🔭 I’m currently working on my Edtech startup Sohopathi.io -->
 - 🌱 I’m currently learning AWS Lambda and serverless fundamentals
 - 👯 Looking to collaborate on Edtech and Computer Vision projects
-- 📫 How to reach me: awsaf@onlinesohopathi.com
+- 📫 How to reach me: 1505114.maaa@ugrad.cse.buet.ac.bd
 
 
 <!--
