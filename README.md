@@ -4,8 +4,8 @@ I'm Awsaf, currently working at [Sohopathi](https://sohopathi.io)
 Working mostly in the MERN stack, Typescript, Nodejs, MongoDb
 Occasionally I write blog posts on various topics I find interesting. Visit 👉 https://awsaf.dev/
 
-- 🔭 I’m currently working on my Edtech startup Sohopathi.io
-- 🌱 I’m currently learning AWS Lambda
+<!-- - 🔭 I’m currently working on my Edtech startup Sohopathi.io -->
+- 🌱 I’m currently learning AWS Lambda and serverless fundamentals
 - 👯 Looking to collaborate on Edtech and Computer Vision projects
 - 📫 How to reach me: awsaf@onlinesohopathi.com
 
