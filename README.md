@@ -8,7 +8,7 @@ My research interests include software engineering analytics, NLP for developer 
 <!-- - 🔭 I’m currently working on my Edtech startup Sohopathi.io -->
 <!-- - 🌱 I’m currently learning AWS Lambda and serverless fundamentals -->
 <!-- - 👯 Looking to collaborate on Edtech and Computer Vision projects -->
-- 📫 Email: 1505114.maaa@ugrad.cse.buet.ac.bd
+- 📫 Email: awsafalam@gmail.com
 
 
 <!--
